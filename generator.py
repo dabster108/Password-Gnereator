@@ -1,6 +1,5 @@
-import string
 import random
-
+import string
 alphabets = list(string.ascii_letters)
 digits = list(string.digits)
 character_special = list("!@#$%^&*()")
